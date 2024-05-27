@@ -93,7 +93,7 @@ const SignUp = () => {
               href="/sign-in"
               className="text-lg font-psemibold text-secondary"
             >
-              Sign In
+              Login
             </Link>
           </View>
         </View>
